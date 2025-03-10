@@ -1,6 +1,6 @@
 #display{
     margin: 5px 0;
-    width: 130px;
+    width: 192px;
     height: 30px;
     font-size: 15px;
     border-radius: 5px;
@@ -8,8 +8,8 @@
 }
 #btn{
     color: white;
-    width: 30px;
-    height: 30px;
+    width: 45px;
+    height: 45px;
     font-size: 15px;
     text-align: center;
     border: none;
