@@ -1,3 +1,10 @@
+div{
+    /* margin-left: 200px; */
+        margin: 0 auto;
+        display: block;
+        width: fit-content; /* Eni kontentga mos ravishda belgilanadi */
+    
+}
 #display{
     margin: 5px 0;
     width: 192px;
